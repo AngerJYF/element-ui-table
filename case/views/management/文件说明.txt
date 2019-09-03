@@ -1,0 +1,11 @@
+User.vue  组件 ---  用户管理
+Role.vue  组件 --- 角色管理
+Backstage.vue 组件 --- 后台权限管理
+
+components  文件夹 
+	|
+	TableTem.vue 封装的表格组件 公用
+	|  
+	RoleDialog.vue    添加||编辑  角色弹窗
+	|
+	AddNewDialog.vue   添加其它内容 弹窗	
