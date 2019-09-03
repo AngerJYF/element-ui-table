@@ -4,6 +4,14 @@
 
 ![图片功能展示](https://github.com/AngerJYF/element-ui-table/blob/master/case/assets/image/001.png)
 
+#### 笔者开发项目(根据项目需求所写)   case 文件夹可以查看相关代码 
+
+######  用户管理 表格
+![图片功能展示](https://github.com/AngerJYF/element-ui-table/blob/master/case/assets/image/002.png)
+
+######  后台信息展示 表格
+![图片功能展示](https://github.com/AngerJYF/element-ui-table/blob/master/case/assets/image/003.png)
+
 ``` hash
 
 <!--表格组件 -->
