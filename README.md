@@ -2,6 +2,7 @@
 
 #### 先看最终效果(展示部分数据, 自行根据项目需求进行封装)
 
+![图片功能展示](https://github.com/AngerJYF/element-ui-table/blob/master/case/assets/image/001.png)
 
 ``` hash
 
