@@ -1,9 +1,5 @@
 ### 表格组件代码：Table.vue
 
-#### 先看最终效果(展示部分数据, 自行根据项目需求进行封装)
-
-![图片功能展示](https://github.com/AngerJYF/element-ui-table/blob/master/case/assets/image/001.png)
-
 #### 笔者开发项目(根据项目需求所写)   case 文件夹可以查看相关代码 
 
 ######  用户管理 表格
@@ -323,3 +319,8 @@ export default {
 </style>
 
 ```
+
+
+#### 看看上面代码最终效果(展示部分数据, 自行根据项目需求进行封装)
+
+![图片功能展示](https://github.com/AngerJYF/element-ui-table/blob/master/case/assets/image/001.png)
